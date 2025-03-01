@@ -1,7 +1,7 @@
 # 灵溪AI
 办公学习好助手
 
-![灵溪ai]([http://图片网址](https://ps.ssl.qhimg.com/t02124b396a54b7231c.jpg))
+![灵溪ai](https://ps.ssl.qhimg.com/t02124b396a54b7231c.jpg)
 
 目前已实现功能
 
